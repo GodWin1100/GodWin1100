@@ -18,4 +18,4 @@ http://rgb-color-guess.000webhostapp.com/
 #### Also interested in Machine Learning
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
-<!-- ![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight) -->
+![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight) 
