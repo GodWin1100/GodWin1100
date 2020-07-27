@@ -17,8 +17,11 @@ http://rgb-color-guess.000webhostapp.com/
 
 ### Completed an internship as frontend React developer
 
+## Reach
 ### LinkedIn 
 https://www.linkedin.com/in/shivam-panchal-godwin1100
+### Gmail
+shivamjpanchal1@gmail.com
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
 ![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight) 
