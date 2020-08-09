@@ -27,8 +27,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 ## Reach
 [<img align="left" alt="GodWin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br/>
-### Gmail
+[<img align="left" alt="GodWin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 shivamjpanchal1@gmail.com
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
@@ -38,6 +37,7 @@ shivamjpanchal1@gmail.com
 
 
 [linkedin]:https://www.linkedin.com/in/shivam-panchal-godwin1100
+[gmail]:https://www.google.com/intl/en-GB/gmail/about/#
 [react]:https://basicreactbur.web.app/
 [js]:http://rgb-color-guess.000webhostapp.com/
 [github]:https://github.com/GodWin1100?tab=repositories
