@@ -21,7 +21,7 @@ http://rgb-color-guess.000webhostapp.com/
 ### LinkedIn 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-### Gmail
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]
 shivamjpanchal1@gmail.com
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
