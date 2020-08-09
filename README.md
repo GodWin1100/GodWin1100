@@ -16,7 +16,8 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br/>
-Live Websites
+<br/>
+### Live Websites
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 <br/>
@@ -27,7 +28,7 @@ Live Websites
 ## Reach
 [<img align="left" alt="GodWin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
-###Gmail
+### Gmail
 shivamjpanchal1@gmail.com
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
