@@ -19,9 +19,13 @@ http://rgb-color-guess.000webhostapp.com/
 
 ## Reach
 ### LinkedIn 
-https://www.linkedin.com/in/shivam-panchal-godwin1100
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 ### Gmail
 shivamjpanchal1@gmail.com
 
 ### Currently Intern as Frontend Developer for developing e-Commerce Website from scratch and working on a project as Full Stack Mern
 ![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight) 
+
+
+[linkedin]:https://www.linkedin.com/in/shivam-panchal-godwin1100
