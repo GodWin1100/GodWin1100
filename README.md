@@ -35,7 +35,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 ## Reach
 
-[<img alt="GodWin | LinkedIn" width="22px" style="background-color:white; padding:2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;
+[<img alt="GodWin | LinkedIn" width="22px" style="max-width:100%;background: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;
 [<img alt="GodWin | LinkedIn" width="22px" style="background-color:white; padding:2px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 shivamjpanchal1@gmail.com
 
