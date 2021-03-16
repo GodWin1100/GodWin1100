@@ -42,7 +42,7 @@ shivamjpanchal1@gmail.com
 ### Currently focusing academics.
 
 ![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight)
-![l._shivam_.l Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight)
+<!-- ![l._shivam_.l Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight) -->
 
 [linkedin]: https://www.linkedin.com/in/shivam-panchal-godwin1100
 [gmail]: https://www.google.com/intl/en-GB/gmail/about/#
