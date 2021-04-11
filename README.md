@@ -25,7 +25,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 ### Live Websites
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]&nbsp;
+
 [<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 <br/>
 
@@ -47,5 +47,4 @@ shivamjpanchal1@gmail.com
 [linkedin]: https://www.linkedin.com/in/shivam-panchal-godwin1100
 [gmail]: https://www.google.com/intl/en-GB/gmail/about/#
 [react]: https://basicreactbur.web.app/
-[js]: http://rgb-color-guess.000webhostapp.com/
 [github]: https://github.com/GodWin1100?tab=repositories
