@@ -11,19 +11,26 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 #### Also interested in Machine Learning
 
+## Tech Stack
+
 #### Language
 
 ![HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
 ![SCSS](https://img.shields.io/badge/SCSS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)
 ![JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
-![React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
 ![Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=333)
-![Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=black&labelColor=fefefe)
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)
 ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
 ![Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
 ![Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=white&labelColor=black)
+
+#### Framework & Library
+
+![React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
+![Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)
+![Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=black&labelColor=fefefe)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=fefefe)
 
 #### Tools
 
@@ -32,6 +39,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 ![GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
 ![Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)
 ![Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
+![MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)
 
 <!-- ### Live Websites -->
 <!-- [<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react] -->
