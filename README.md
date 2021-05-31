@@ -15,6 +15,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 ![HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
+![SCSS](https://img.shields.io/badge/SCSS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)
 ![JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 ![React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
 ![Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=333)
