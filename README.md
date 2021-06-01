@@ -7,7 +7,9 @@
 I am from Mumbai, India.
 An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
 
-#### An Entusiast MERN Full Stack Developer.
+#### An Entusiast `MERN Full Stack Developer`.
+
+#### Looking for projects as well as internship in `MERN Tech Stack`
 
 #### Also interested in Machine Learning
 
@@ -15,52 +17,77 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 
 #### Language
 
-![HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![SCSS](https://img.shields.io/badge/SCSS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)
-![JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
-![Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=333)
-![MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)
-![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-![Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=white&labelColor=black)
+[![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)][html5]
+[![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)][css3]
+[![Language | SASS](https://img.shields.io/badge/SASS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)][sass]
+[![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
+[![Language | Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=333)][nodejs]
+[![Language | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
+[![Language | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)][mysql]
+[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)][python]
+[![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=white&labelColor=black)][markdown]
 
 #### Framework & Library
 
-![React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)
-![Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=black&labelColor=fefefe)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=fefefe)
+[![Framework & Library | React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)][react]
+[![Framework & Library | Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)][redux]
+[![Framework & Library | Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=black&labelColor=fefefe)][express]
+[![Framework & Library | Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=fefefe)][mongoose]
 
 #### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)
-![Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)
-![GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)
-![Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)
+[![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
+[![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
+[![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)][github]
+[![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
+[![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
+[![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)][heroku]
+[![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
-<!-- ### Live Websites -->
-<!-- [<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react] -->
+## GitHub Stats
 
-#### Looking for projects as well as internship to gain live exposure in MERN Stack.
+!['l._shivam_.l | GitHub Stats'](https://github-readme-stats.vercel.app/api?username=GodWin1100&count_private=true&show_icons=true&theme=tokyonight)
+
+<!-- ![l._shivam_.l | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight&langs_count=10) -->
 
 ## Reach
 
-[<img alt="GodWin | LinkedIn" src="https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />][linkedin]
-[<img alt="GodWin | GitHub" src="https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />][github]
-[<img alt="GodWin | G Mail" src="https://img.shields.io/badge/shivamjpanchal1@gmail.com-eeeeee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />][gmail]
+[![Shivam Panchal | LinkedIn](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)][reach_linkedin]
+[![GodWin1100 | GitHub](https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)][reach_github]
+[![shivamjpanchal1 | G Mail](https://img.shields.io/badge/shivamjpanchal1-eeeeee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)][reach_gmail]
 
-<!-- ### Currently focusing academics. -->
+<!-- LINKS -->
+<!-- Language -->
 
-![l._shivam_.l github stats](https://github-readme-stats.vercel.app/api?username=GodWin1100&count_private=true&show_icons=true&theme=tokyonight)
+[html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[sass]: https://sass-lang.com/
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[nodejs]: https://nodejs.org/en/
+[mongodb]: https://www.mongodb.com/
+[mysql]: https://www.mysql.com/
+[python]: https://www.python.org/
+[markdown]: https://www.markdownguide.org/
 
-<!-- ![l._shivam_.l Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight) -->
+<!-- Framework & Library -->
 
-[linkedin]: https://www.linkedin.com/in/shivam-panchal-godwin1100
-[gmail]: https://www.google.com/intl/en-GB/gmail/about/#
+[react]: https://reactjs.org/
+[redux]: https://redux.js.org/
+[express]: https://expressjs.com/
+[mongoose]: https://mongoosejs.com/
 
-<!-- [react]: https://basicreactbur.web.app/ -->
+<!-- Tools -->
 
-[github]: https://github.com/GodWin1100
+[visual_studio_code]: https://code.visualstudio.com/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[npm]: https://www.npmjs.com/
+[postman]: https://www.postman.com/
+[heroku]: https://www.heroku.com/
+[microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
+
+<!-- Reach  -->
+
+[reach_linkedin]: https://www.linkedin.com/in/shivam-panchal-godwin1100
+[reach_gmail]: mailto:shivamjpanchal1@gmail.com?subject=GitHub%20Hello
+[reach_github]: https://github.com/GodWin1100
