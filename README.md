@@ -1,19 +1,17 @@
-# Shivam Panchal
+# :man_student: Shivam Panchal
 
-<!-- ![GodWin GitHub profile views](https://komarev.com/ghpvc/?username=GodWin1100) -->
-
-## About Me
+## :tipping_hand_man: About Me
 
 I am from Mumbai, India.
 An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
 
-#### An Entusiast `MERN Full Stack Developer`.
+#### An Entusiast `MERN Full Stack Developer`
 
 #### Looking for projects as well as internship in `MERN Tech Stack`
 
-#### Also interested in Machine Learning
+#### Also interested in `Data Science` & `Machine Learning`
 
-## Tech Stack
+## :computer: Tech Stack
 
 #### Language
 
@@ -44,13 +42,29 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)][heroku]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
-## GitHub Stats
+## :memo: GitHub Stats
 
-!['l._shivam_.l | GitHub Stats'](https://github-readme-stats.vercel.app/api?username=GodWin1100&count_private=true&show_icons=true&theme=tokyonight)
+### Stats Card
 
-<!-- ![l._shivam_.l | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight&langs_count=10) -->
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=GodWin1100&count_private=true&show_icons=true&theme=tokyonight)][stats_card]
 
-## Reach
+<!-- ### Top Language -->
+<!--  -->
+<!-- [![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=GodWin1100&layout=compact&theme=tokyonight&langs_count=5)][top_language] -->
+<!--  -->
+<!-- ### Profile Trophy -->
+<!--  -->
+<!-- [![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=GodWin1100&theme=onedark&row=1)][profile_trophy] -->
+<!--  -->
+<!-- ### Streak Stats -->
+<!--  -->
+<!-- [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=GodWin1100&theme=tokyonight)][streak_stats] -->
+<!--  -->
+<!-- ### Activity Graph -->
+<!--  -->
+<!-- [![GitHub Stats | Activity Graph](https://activity-graph.herokuapp.com/graph?username=GodWin1100&theme=react-dark)][activity_graph] -->
+
+## :round_pushpin: Reach
 
 [![Shivam Panchal | LinkedIn](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)][reach_linkedin]
 [![GodWin1100 | GitHub](https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)][reach_github]
@@ -85,6 +99,14 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [postman]: https://www.postman.com/
 [heroku]: https://www.heroku.com/
 [microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
+
+<!-- GitHub Stats -->
+
+[stats_card]: https://github.com/anuraghazra/github-readme-stats
+[top_language]: https://github.com/anuraghazra/github-readme-stats
+[profile_trophy]: https://github.com/ryo-ma/github-profile-trophy
+[streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
+[activity_graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
 
 <!-- Reach  -->
 
