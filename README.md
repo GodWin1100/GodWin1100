@@ -19,7 +19,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)][css3]
 [![Language | SASS](https://img.shields.io/badge/SASS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)][sass]
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
-[![Language | Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node-dot-js&logoColor=339933&labelColor=333)][nodejs]
+[![Language | Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=333)][nodejs]
 [![Language | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
 [![Language | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)][mysql]
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)][python]
