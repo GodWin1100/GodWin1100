@@ -3,13 +3,13 @@
 ## :tipping_hand_man: About Me
 
 I am from Mumbai, India.
-An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
+An B.Tech Last Year Computer Engineering Student at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
 
 #### An Entusiast `MERN Full Stack Developer`
 
-#### Looking for projects as well as internship in `MERN Tech Stack`
+#### Looking to lead `MERN Stack Projects`
 
-#### Also interested in `Data Science` & `Machine Learning`
+#### Currently Learning `Data Science`
 
 ## :computer: Tech Stack
 
@@ -19,9 +19,10 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)][css3]
 [![Language | SASS](https://img.shields.io/badge/SASS-eeeeee?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=fefefe)][sass]
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
-[![Language | Node.Js](https://img.shields.io/badge/Node.Js-eeeeee?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=333)][nodejs]
+[![Language | Node.Js](https://img.shields.io/badge/NodeJs-eeeeee?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=333)][nodejs]
 [![Language | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
 [![Language | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)][mysql]
+[![Language | GraphQL](https://img.shields.io/badge/graphql-eeeeee?style=for-the-badge&logo=graphql&logoColor=E434AA&labelColor=171e26)][graphql]
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)][python]
 [![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=white&labelColor=black)][markdown]
 
@@ -40,6 +41,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 [![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098)][heroku]
+[![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
 ## :memo: GitHub Stats
@@ -80,6 +82,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [nodejs]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
 [mysql]: https://www.mysql.com/
+[graphql]: https://graphql.org/
 [python]: https://www.python.org/
 [markdown]: https://www.markdownguide.org/
 
@@ -98,6 +101,7 @@ An BE Computer Engineering Student currently in Third Year at K. J. Somaiya Inst
 [npm]: https://www.npmjs.com/
 [postman]: https://www.postman.com/
 [heroku]: https://www.heroku.com/
+[microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
 
 <!-- GitHub Stats -->
