@@ -5,9 +5,9 @@
 I am from Mumbai, India.
 An B.Tech Last Year Computer Engineering Student at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
 
-#### An Entusiast `MERN Full Stack Developer`
+#### An Entusiast `MERN Full Stack Developer` & `Budding Data Scientist`
 
-#### Looking to lead `MERN Stack Projects`
+#### Looking to lead `MERN Stack Projects` & `Data Science Internships`
 
 #### Currently Learning `Data Science`
 
@@ -48,7 +48,7 @@ An B.Tech Last Year Computer Engineering Student at K. J. Somaiya Institute of E
 
 ### Stats Card
 
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=GodWin1100&count_private=true&show_icons=true&theme=tokyonight)][stats_card]
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=GodWin1100&show_icons=true&theme=tokyonight)][stats_card]
 
 <!-- ### Top Language -->
 <!--  -->
