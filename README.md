@@ -2,7 +2,7 @@
 
 ## :tipping_hand_man: About Me
 
-- An Entusiast `MERN Full Stack Developer` & `Budding Data Scientist`.
+- An Enthusiast `MERN Full Stack Developer` & `Budding Data Scientist`.
 - Nurturing Data Science & Story telling.
 - Interested in `Data Science Oriented` Job & Internship.
 - Conditional Leadership & proficient in leading & managing teams.
