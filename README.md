@@ -2,12 +2,13 @@
 
 ## :tipping_hand_man: About Me
 
-- An Enthusiast `MERN Full Stack Developer` & `Budding Data Scientist`.
+- An Enthusiast `Data Scientist`.
+- Full Stack `MERN Developer`.
 - Nurturing Data Science & Story telling.
-- Interested in `Data Science Oriented` Job & Internship.
 - Conditional Leadership & proficient in leading & managing teams.
+- An B.Tech Computer Engineer.
 
-An B.Tech Last Year Computer Engineering Student at K. J. Somaiya Institute of Engineering & Information Technology, Sion.
+**_Open for `Data Science Oriented` Job & Internship._**
 
 ## :computer: Tech Stack
 
