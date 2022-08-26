@@ -7,6 +7,7 @@
 - Nurturing Data Science & Story telling.
 - Conditional Leadership & proficient in leading & managing teams.
 - An B.Tech Computer Engineer.
+- Currently doing [Full Stack Data Science Course, Nov-21](https://ineuron.ai/course/Full-Stack-Data-Science-Nov'21-Batch) from iNeuron.
 
 **_Open for `Data Science Oriented` Job & Internship._**
 
