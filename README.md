@@ -18,6 +18,7 @@
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
 [![Language | Node.Js](https://img.shields.io/badge/NodeJs-eeeeee?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=333)][nodejs]
+[![Language | C](https://img.shields.io/badge/C/C++-eeeeee?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=fefefe)][c/c++]
 [![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=ffffff&labelColor=000000)][markdown]
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
@@ -31,7 +32,7 @@
 
 #### Framework & Library
 
-[![Framework & Library | Tensorflow](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
+[![Framework & Library | Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
 [![Framework & Library | Numpy](https://img.shields.io/badge/Numpy-eeeeee?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=fefefe)][numpy]
 [![Framework & Library | Plotly](https://img.shields.io/badge/Plotly-eeeeee?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=fefefe)][plotly]
@@ -42,12 +43,13 @@
 
 #### Tools
 
-[![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
-[![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
+[![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+[![Tools | Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=fefefe)][docker]
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
-[![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+[![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
 [![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
+[![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
 [![Tools | Blender](https://img.shields.io/badge/Blender-eeeeee?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=fefefe)][blender]
@@ -95,6 +97,7 @@
 [nodejs]: https://nodejs.org/en/
 [python]: https://www.python.org/
 [sass]: https://sass-lang.com/
+[c/c++]: https://learn.microsoft.com/en-us/cpp/
 
 <!-- Database -->
 
@@ -126,6 +129,7 @@
 [postman]: https://www.postman.com/
 [power_bi]: https://powerbi.microsoft.com/en-au/
 [visual_studio_code]: https://code.visualstudio.com/
+[docker]: https://www.docker.com/
 
 <!-- GitHub Stats -->
 
