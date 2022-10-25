@@ -31,6 +31,7 @@
 
 #### Framework & Library
 
+[![Framework & Library | Tensorflow](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
 [![Framework & Library | Numpy](https://img.shields.io/badge/Numpy-eeeeee?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=fefefe)][numpy]
 [![Framework & Library | Plotly](https://img.shields.io/badge/Plotly-eeeeee?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=fefefe)][plotly]
@@ -103,13 +104,14 @@
 <!-- Framework & Library -->
 
 [express]: https://expressjs.com/
-[flask]: https://flask.palletsprojects.com/en/2.1.x/
+[flask]: https://flask.palletsprojects.com
 [mongoose]: https://mongoosejs.com/
 [pandas]: https://pandas.pydata.org/docs/
 [plotly]: https://plotly.com/python/
 [numpy]: https://numpy.org/doc/
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
+[tensorflow]: https://www.tensorflow.org/
 
 <!-- Tools -->
 
