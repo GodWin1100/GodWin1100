@@ -7,7 +7,7 @@
 - Nurturing Data Science & Story telling.
 - Conditional Leadership & proficient in leading & managing teams.
 - An B.Tech Computer Engineer.
-- Currently doing [Full Stack Data Science Course, Nov-21](https://ineuron.ai/course/Full-Stack-Data-Science-Nov'21-Batch) from iNeuron.
+- Currently pursuing [Full Stack Data Science Course, Nov-21](https://ineuron.ai/course/Full-Stack-Data-Science-Nov'21-Batch) from iNeuron.
 
 **_Open for `Data Science Oriented` Job & Internship._**
 
@@ -34,6 +34,7 @@
 
 [![Framework & Library | Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
+[![Framework & Library | Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-eeeeee?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=fefefe)][scikit_learn]
 [![Framework & Library | Numpy](https://img.shields.io/badge/Numpy-eeeeee?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=fefefe)][numpy]
 [![Framework & Library | Plotly](https://img.shields.io/badge/Plotly-eeeeee?style=for-the-badge&logo=plotly&logoColor=3F4F75&labelColor=fefefe)][plotly]
 [![Framework & Library | Flask](https://img.shields.io/badge/Flask-eeeeee?style=for-the-badge&logo=flask&logoColor=000000&labelColor=fefefe)][flask]
@@ -44,17 +45,17 @@
 #### Tools
 
 [![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
-[![Tools | Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=fefefe)][docker]
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
+[![Tools | Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=fefefe)][docker]
 [![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
-[![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
 [![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
+[![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
-[![Tools | Blender](https://img.shields.io/badge/Blender-eeeeee?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=fefefe)][blender]
 [![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
+[![Tools | Blender](https://img.shields.io/badge/Blender-eeeeee?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=fefefe)][blender]
 
 ## :memo: GitHub Stats
 
@@ -110,6 +111,7 @@
 [flask]: https://flask.palletsprojects.com
 [mongoose]: https://mongoosejs.com/
 [pandas]: https://pandas.pydata.org/docs/
+[scikit_learn]: https://scikit-learn.org/stable/
 [plotly]: https://plotly.com/python/
 [numpy]: https://numpy.org/doc/
 [react]: https://reactjs.org/
