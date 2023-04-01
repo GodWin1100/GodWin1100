@@ -7,9 +7,7 @@
 - Nurturing Data Science & Story telling.
 - Conditional Leadership & proficient in leading & managing teams.
 - An B.Tech Computer Engineer.
-- Currently pursuing [Full Stack Data Science Course, Nov-21](https://ineuron.ai/course/Full-Stack-Data-Science-Nov'21-Batch) from iNeuron.
-
-**_Open for `Data Science Oriented` Job & Internship._**
+- Open for opportunities in `Data Science` Domain.
 
 ## :computer: Tech Stack
 
@@ -33,6 +31,7 @@
 #### Framework & Library
 
 [![Framework & Library | Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
+[![Framework & Library | PySpark](https://img.shields.io/badge/PySpark-eeeeee?style=for-the-badge&logo=apache-spark&logoColor=E25A1C&labelColor=fefefe)][pyspark]
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
 [![Framework & Library | Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-eeeeee?style=for-the-badge&logo=scikitlearn&logoColor=F7931E&labelColor=fefefe)][scikit_learn]
 [![Framework & Library | Numpy](https://img.shields.io/badge/Numpy-eeeeee?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=fefefe)][numpy]
@@ -111,6 +110,7 @@
 [flask]: https://flask.palletsprojects.com
 [mongoose]: https://mongoosejs.com/
 [pandas]: https://pandas.pydata.org/docs/
+[pyspark]: https://spark.apache.org/docs/latest/api/python/
 [scikit_learn]: https://scikit-learn.org/stable/
 [plotly]: https://plotly.com/python/
 [numpy]: https://numpy.org/doc/
