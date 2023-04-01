@@ -145,5 +145,5 @@
 
 [reach_github]: https://github.com/GodWin1100
 [reach_gmail]: mailto:shivamjpanchal1@gmail.com?subject=GitHub%20Hello
-[reach_linkedin]: https://www.linkedin.com/in/shivam-panchal-godwin1100
+[reach_linkedin]: https://www.linkedin.com/in/godwin1100
 [reach_stackoverflow]: https://stackoverflow.com/users/10995550/godwin
