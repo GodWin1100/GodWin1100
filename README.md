@@ -2,12 +2,11 @@
 
 ## :tipping_hand_man: About Me
 
-- An Enthusiast `Data Scientist`.
 - Full Stack `MERN Developer`.
-- Nurturing Data Science & Story telling.
-- Conditional Leadership & proficient in leading & managing teams.
+- An Enthusiast `Data Scientist`.
+- Technical Lead, Bug Fixer & proficient in leading & managing teams.
 - An B.Tech Computer Engineer.
-- Open for opportunities in `Data Science` Domain.
+- Open for opportunities as `Full Stack MERN Developer` & `Data Science` Domain.
 
 ## :computer: Tech Stack
 
@@ -146,4 +145,4 @@
 [reach_github]: https://github.com/GodWin1100
 [reach_gmail]: mailto:shivamjpanchal1@gmail.com?subject=GitHub%20Hello
 [reach_linkedin]: https://www.linkedin.com/in/godwin1100
-[reach_stackoverflow]: https://stackoverflow.com/users/10995550/godwin
+[reach_stackoverflow]: https://stackoverflow.com/users/10995550/godwin1100
