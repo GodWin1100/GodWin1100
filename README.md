@@ -83,7 +83,7 @@
 [![Shivam Panchal | LinkedIn](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
 [![GodWin1100 | GitHub](https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][reach_github]
 [![shivamjpanchal1 | G Mail](https://img.shields.io/badge/shivamjpanchal1-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![lshivaml1 | X](https://img.shields.io/badge/lshivaml1-eeeeee?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000)][reach_x]
+[![l_shivam_l | X](https://img.shields.io/badge/l__shivam__l-eeeeee?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000)][reach_x]
 [![GodWin | Medium](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000)][reach_medium]
 [![GodWin | Stack Overflow](https://img.shields.io/badge/GodWin-eeeeee?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=393939)][reach_stackoverflow]
 
@@ -146,7 +146,7 @@
 
 [reach_github]: https://github.com/GodWin1100
 [reach_gmail]: mailto:shivamjpanchal1@gmail.com?subject=GitHub%20Hello
-[reach_x]: https://twitter.com/lshivaml1
+[reach_x]: https://twitter.com/l_shivam_l
 [reach_linkedin]: https://www.linkedin.com/in/godwin1100
 [reach_medium]: https://medium.com/@godwin1100
 [reach_stackoverflow]: https://stackoverflow.com/users/10995550/godwin1100
