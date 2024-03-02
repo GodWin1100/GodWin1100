@@ -1,6 +1,7 @@
 name: Latest blog post workflow
 on:
-    - cron: '0 0 * * 1'
+  schedule:
+    - cron: "0 0 * * 2"
   workflow_dispatch:
 permissions:
   contents: write
