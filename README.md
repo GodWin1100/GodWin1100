@@ -3,9 +3,9 @@
 ## :tipping_hand_man: About Me
 
 - Full Stack Software & Data Engineer.
-- An Tech Artisan & Enthusiast `Data Scientist`.
-- Technically sound Lead & proficient in leading & managing teams.
-- Expertise in Javascript, NodeJs & Python.
+- Omnipotent & An Tech Artisan.
+- Technically sound & proficient in leading & managing teams.
+- Hands on practical expertise in Javascript, NodeJs, Python, and Software Development Lifecycle & Data Pipeline.
 - An B.Tech Computer Engineer.
 
 ## :computer: Tech Stack
@@ -25,10 +25,13 @@
 #### Database
 
 [![Language | MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1)][mysql]
+[![Language | PostgreSql](https://img.shields.io/badge/PostgreSql-eeeeee?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=4169E1)][postgresql]
 [![Language | MongoDB](https://img.shields.io/badge/Mongo_DB-eeeeee?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=fefefe)][mongodb]
 
 #### Framework & Library
 
+[![Framework & Library | Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=000000&labelColor=fefefe)][express]
+[![Framework & Library | FastAPI](https://img.shields.io/badge/FastAPI-eeeeee?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=fefefe)][fastapi]
 [![Framework & Library | Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=fefefe)][tensorflow]
 [![Framework & Library | PySpark](https://img.shields.io/badge/PySpark-eeeeee?style=for-the-badge&logo=apache-spark&logoColor=E25A1C&labelColor=fefefe)][pyspark]
 [![Framework & Library | Pandas](https://img.shields.io/badge/Pandas-eeeeee?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=fefefe)][pandas]
@@ -38,22 +41,23 @@
 [![Framework & Library | Flask](https://img.shields.io/badge/Flask-eeeeee?style=for-the-badge&logo=flask&logoColor=000000&labelColor=fefefe)][flask]
 [![Framework & Library | React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)][react]
 [![Framework & Library | Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)][redux]
-[![Framework & Library | Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=000000&labelColor=fefefe)][express]
 
 #### Tools
 
-[![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
+[![Tools | AWS](https://img.shields.io/badge/AWS-eeeeee?style=for-the-badge&logo=amazonaws&logoColor=232F3E&labelColor=fefefe)][aws]
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
-[![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
-[![Tools | Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=fefefe)][docker]
 [![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
+[![Tools | Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=fefefe)][docker]
+[![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
 [![Tools | Jupyter](https://img.shields.io/badge/Jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=fefefe)][jupyter]
 [![Tools | Postman](https://img.shields.io/badge/Postman-eeeeee?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=fefefe)][postman]
+[![Tools | Power BI](https://img.shields.io/badge/Power_BI-eeeeee?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=fefefe)][power_bi]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
-[![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
 [![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 [![Tools | Blender](https://img.shields.io/badge/Blender-eeeeee?style=for-the-badge&logo=blender&logoColor=F5792A&labelColor=fefefe)][blender]
+
+<!-- [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku] -->
 
 ## [Blog](https://github.com/GodWin1100/Blogs)
 
@@ -86,11 +90,12 @@
 ## :round_pushpin: Reach
 
 [![Shivam Panchal | LinkedIn](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![GodWin1100 | GitHub](https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][reach_github]
 [![shivamjpanchal1 | G Mail](https://img.shields.io/badge/shivamjpanchal1-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
-[![l_shivam_l | X](https://img.shields.io/badge/l__shivam__l-eeeeee?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000)][reach_x]
+[![GodWin1100 | GitHub](https://img.shields.io/badge/Godwin1100-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][reach_github]
 [![GodWin | Medium](https://img.shields.io/badge/Shivam_Panchal-eeeeee?style=for-the-badge&logo=medium&logoColor=ffffff&labelColor=000000)][reach_medium]
+[![GodWin | LeetCode](https://img.shields.io/badge/GodWin1100-eeeeee?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=111111)][reach_leetcode]
 [![GodWin | Stack Overflow](https://img.shields.io/badge/GodWin-eeeeee?style=for-the-badge&logo=stackoverflow&logoColor=F58025&labelColor=393939)][reach_stackoverflow]
+[![l_shivam_l | X](https://img.shields.io/badge/l__shivam__l-eeeeee?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=000000)][reach_x]
 
 <!-- LINKS -->
 <!-- Language -->
@@ -109,10 +114,12 @@
 
 [mongodb]: https://www.mongodb.com/
 [mysql]: https://www.mysql.com/
+[postgresql]: https://www.postgresql.org/
 
 <!-- Framework & Library -->
 
 [express]: https://expressjs.com/
+[fastapi]: https://fastapi.tiangolo.com/
 [flask]: https://flask.palletsprojects.com
 [mongoose]: https://mongoosejs.com/
 [pandas]: https://pandas.pydata.org/docs/
@@ -126,6 +133,7 @@
 
 <!-- Tools -->
 
+[aws]: https://aws.amazon.com/
 [blender]: https://www.blender.org/
 [git]: https://git-scm.com/
 [github]: https://github.com/
@@ -155,3 +163,4 @@
 [reach_linkedin]: https://www.linkedin.com/in/godwin1100
 [reach_medium]: https://medium.com/@godwin1100
 [reach_stackoverflow]: https://stackoverflow.com/users/10995550/godwin1100
+[reach_leetcode]: https://leetcode.com/godwin1100
