@@ -62,6 +62,9 @@
 ## [Blog](https://github.com/GodWin1100/Blogs)
 
 <!-- BLOG-POST-LIST:START -->
+- [Git: Mastering the Essentials](https://blog.devgenius.io/git-mastering-the-essentials-06f06ee7ad72?source=rss-9e32d5c64c9a------2)
+- [ORM: Bridging Code and DBMS](https://blog.devgenius.io/orm-bridging-code-and-dbms-b61dbb0ce798?source=rss-9e32d5c64c9a------2)
+- [Relationships of RDBMS](https://godwin1100.medium.com/relationships-of-rdbms-f2edc98e0951?source=rss-9e32d5c64c9a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## :memo: GitHub Stats
