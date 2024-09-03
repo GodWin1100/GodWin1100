@@ -62,6 +62,7 @@
 ## [Blog](https://github.com/GodWin1100/Blogs)
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Packaging: Setup.py](https://godwin1100.medium.com/python-packaging-setup-py-ae04b3d41653?source=rss-9e32d5c64c9a------2)
 - [Git: Mastering the Essentials](https://blog.devgenius.io/git-mastering-the-essentials-06f06ee7ad72?source=rss-9e32d5c64c9a------2)
 - [ORM: Bridging Code and DBMS](https://blog.devgenius.io/orm-bridging-code-and-dbms-b61dbb0ce798?source=rss-9e32d5c64c9a------2)
 - [Relationships of RDBMS](https://blog.devgenius.io/relationships-of-rdbms-f2edc98e0951?source=rss-9e32d5c64c9a------2)
